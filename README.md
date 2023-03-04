@@ -2,7 +2,7 @@
 
 > Soy un programador Full-Stack Jr, con tecnologia Front-end en ReactJs, y Back-end con Php y MySql.
 
-``` JavaScrip 
+``` JavaScript
 const myPersonality  =
             {
                 "name": "Nicolas Villamarin",
@@ -17,7 +17,7 @@ console.log(myPersonality)
 
 ## Herramientas 
 
-| Skill | ----------- |
+| ** Skill ** | ----------- |
 | ----------- | ----------- |
 | HTML5 | JavaScript |
 | CSS3 | Bootstrap |
