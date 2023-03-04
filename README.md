@@ -8,7 +8,7 @@ const myPersonality  =
                 "name": "Nicolas Villamarin",
                 "age": 30,
                 "personality": "Soy una persona curiosa y analistica, me considero extrovertido 🎊 e flexible a cambios que puedan ocurrir ",
-                "goals": "¡Aprender mas sobre este hermoso mundo de la programacion y aplicar mis aprendizajes!. Tambien cumplir todos los desafios que se me                            presenten.🎯",
+                "goals": "¡Aprender mas sobre este hermoso mundo de la programacion y aplicar mis aprendizajes!. Tambien cumplir todos los desafios que se me presenten.🎯",
                 "disponibility": true
             }
 console.log(myPersonality)
@@ -17,7 +17,7 @@ console.log(myPersonality)
 
 ## Herramientas 
 
-| Skill |
+| Skill | ----------- |
 | ----------- | ----------- |
 | HTML5 | JavaScript |
 | CSS3 | Bootstrap |
