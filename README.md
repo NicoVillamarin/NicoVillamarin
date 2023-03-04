@@ -1,4 +1,4 @@
-##Hola soy Nicolas Villamarin##
+# Hola soy Nicolas Villamarin
 - 👀 I’m interested in programming, in delevoper FullStack Junior
 - 🌱 I’m currently learning Fron-ent, and back-end.
 - 💞️ I’m looking to collaborate on proyects for learn what I like the most.
