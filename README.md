@@ -1,4 +1,4 @@
-# Hola soy ** Nicolas Villamarin **
+# ¡Hola! soy ***Nicolas Villamarin***
 
 > Soy un programador Full-Stack Jr, con tecnologia Front-end en ReactJs, y Back-end con Php y MySql.
 
@@ -17,7 +17,7 @@ console.log(myPersonality)
 
 ## Herramientas 
 
-| *** Skill *** | ----------- |
+| ***Skill*** | ----------- |
 | ----------- | ----------- |
 | HTML5 | JavaScript |
 | CSS3 | Bootstrap |
