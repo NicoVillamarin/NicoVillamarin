@@ -1,4 +1,4 @@
-# Hola soy ** Nicolas Villamarin **
+# Hola soy *** Nicolas Villamarin ***
 
 > Soy un programador Full-Stack Jr, con tecnologia Front-end en ReactJs, y Back-end con Php y MySql.
 
@@ -29,7 +29,7 @@ console.log(myPersonality)
 | GitHub | PhP |
 | MySql | FireStore |
 
-📱 +5492236976929
-🏠  Mar del plata, Buenos Aires, Argentina
-📧 villamarin.nico@gmail.com
-✅ https://linkedin.com/in/nico-villamarin
+>📱 +5492236976929
+>🏠  Mar del plata, Buenos Aires, Argentina
+>📧 villamarin.nico@gmail.com
+>✅ [LinkedIn](https://linkedin.com/in/nico-villamarin)
