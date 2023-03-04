@@ -1,6 +1,6 @@
 # ¡Hola! soy ***Nicolas Villamarin***
 
-> Soy un programador Full-Stack Jr, con tecnologia Front-end en ReactJs, y Back-end con Php y MySql.
+> > Soy un programador Full-Stack Jr, con tecnologia Front-end en ReactJs, y Back-end con Php y MySql.
 
 ``` javascript
 const myPersonality  =
@@ -17,17 +17,12 @@ console.log(myPersonality)
 
 ## Herramientas 
 
-| ***Skill*** | ----------- |
-| ----------- | ----------- |
-| HTML5 | JavaScript |
-| CSS3 | Bootstrap |
-| VueJs | ReactJs |
-| Vite | ChakraUI |
-| NodeJs | MaterialUI |
-| NPM | Git |
-| XAMPP | POO |
-| GitHub | PhP |
-| MySql | FireStore |
+| ***Skill*** | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| HTML5 | JavaScript | VueJs | ReactJs | NodeJs | MaterialUI | XAMPP | POO | Quasar |
+| CSS3 | Bootstrap | Vite | ChakraUI | NPM | Git | GitHub | PhP | MySql | FireStore |
+
+
 
 📱 +5492236976929 ||
 🏠  Mar del plata, Buenos Aires, Argentina ||
